@@ -10,3 +10,9 @@
 [submodule "themes/smigle"]
 	path = themes/smigle
 	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme.git
+[submodule "themes/simplog"]
+	path = themes/simplog
+	url = https://github.com/michimani/simplog.git
+[submodule "themes/kaslaanka"]
+	path = themes/kaslaanka
+	url = https://github.com/M1cR0xf7/kaslaanka.git
